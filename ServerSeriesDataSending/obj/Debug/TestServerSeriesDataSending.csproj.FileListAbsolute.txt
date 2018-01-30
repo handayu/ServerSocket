@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ServerSocket\ServerSeriesDataSending\bin\Debug\ServerSeriesDataSending.exe
+C:\Users\Administrator\Desktop\ServerSocket\ServerSeriesDataSending\bin\Debug\ServerSeriesDataSending.pdb
+C:\Users\Administrator\Desktop\ServerSocket\ServerSeriesDataSending\obj\Debug\TestServerSeriesDataSending.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerSocket\ServerSeriesDataSending\obj\Debug\ServerSeriesDataSending.exe
+C:\Users\Administrator\Desktop\ServerSocket\ServerSeriesDataSending\obj\Debug\ServerSeriesDataSending.pdb

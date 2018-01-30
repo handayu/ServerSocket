@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\ServerSocket\ServerScoket\bin\Debug\ServerScoket.exe
+C:\Users\Administrator\Desktop\ServerSocket\ServerScoket\bin\Debug\ServerScoket.pdb
+C:\Users\Administrator\Desktop\ServerSocket\ServerScoket\obj\Debug\StandardServerScoket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerSocket\ServerScoket\obj\Debug\ServerScoket.exe
+C:\Users\Administrator\Desktop\ServerSocket\ServerScoket\obj\Debug\ServerScoket.pdb

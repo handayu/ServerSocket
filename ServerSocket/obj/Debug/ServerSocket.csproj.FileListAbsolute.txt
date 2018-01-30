@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\Administrator\Desktop\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\Administrator\Desktop\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\Administrator\Desktop\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb

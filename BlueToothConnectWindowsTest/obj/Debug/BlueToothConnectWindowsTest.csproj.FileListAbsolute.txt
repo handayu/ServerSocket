@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\bin\Debug\BlueToothConnectWindowsTest.exe
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\bin\Debug\BlueToothConnectWindowsTest.pdb
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\bin\Debug\InTheHand.Net.Personal.pdb
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\obj\Debug\BlueToothConnectWindowsTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\obj\Debug\BlueToothConnectWindowsTest.Form1.resources
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\obj\Debug\BlueToothConnectWindowsTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\obj\Debug\BlueToothConnectWindowsTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\obj\Debug\BlueToothConnectWindowsTest.exe
+C:\Users\Administrator\Desktop\ServerSocket\BlueToothConnectWindowsTest\obj\Debug\BlueToothConnectWindowsTest.pdb
